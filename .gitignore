@@ -24,5 +24,6 @@ hs_err_pid*
 replay_pid*
 
 #.idea folder
-./.idea
-./.idea/*
+.idea/
+.gitattributes
+.gitignore
